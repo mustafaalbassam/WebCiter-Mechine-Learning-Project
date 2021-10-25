@@ -1,0 +1,13 @@
+To run the code for this project, follow the steps below.
+
+1. Install anaconda on your machine 
+
+2. Launch Jupyter Notebook
+
+3. Upload the project code file onto Jupyter Notebook 
+
+4. Download dataset file from this link: https://drive.google.com/file/d/11Jl0-JgrONs8gSmKA_koej_ofTbOP4Ti/view?usp=sharing
+
+5. After dowloading the dataset, copy and paste the dataset file path in the project code
+
+6. Run code cells in Jupyter Notebook to launchthe dashboard
