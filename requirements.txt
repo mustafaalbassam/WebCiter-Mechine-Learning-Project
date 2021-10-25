@@ -10,4 +10,4 @@ To run the code for this project, follow the steps below.
 
 5. After dowloading the dataset, copy and paste the dataset file path in the project code
 
-6. Run code cells
+6. Run code cells in Jupyter Notebook to launchthe dashboard
