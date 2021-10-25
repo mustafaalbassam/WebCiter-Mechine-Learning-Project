@@ -26,6 +26,6 @@ Phishing Site = 0
 ML Models Results:
 After training and testing the data using the four models above, Random Forest was able to achieve highest accuracy rate of 97%.
 
-Future Considerations:
+Future Consideration:
 For future work, we would like to build a fully interactive dashboard for the phishing detection system that will allow people to search and track URLs themselves. Also, we would like to include live learning so that new phishing attack patterns can constantly be learned and enhanced.
 
