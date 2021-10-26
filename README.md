@@ -24,7 +24,7 @@ Since we are using binary classifiers, the Data values are converted to the foll
 - Phishing Site = 0
 
 # ML Models Results:
-After training and testing the data using the four models above, we concluded that Random Forest the winner among all, achieving an accuracy rate of 97%.
+After training and testing the data using the four models above, we concluded that Random Forest is the winner among the four models, achieving an accuracy rate of 97%.
 
 # Future Considerations:
 For future work, we would like to build a fully interactive dashboard for the phishing detection system that will allow people to search and track URLs themselves. Also, we would like to include live learning so that new phishing attack patterns can constantly be learned and enhanced.
