@@ -1,4 +1,4 @@
-To run the code for this project, follow the steps below.
+# To run the code for this project, follow the steps below.
 
 1. Install anaconda on your machine 
 
