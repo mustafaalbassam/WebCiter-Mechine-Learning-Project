@@ -4,7 +4,7 @@
 
 2. Launch Jupyter Notebook
 
-3. Download the project code file and dataset file from this repository
+3. Download the project code file and dataset file from this repository by clicking on the "Code" dropdown and "download ZIP"
 
 4. Upload both project code and dataset files into Jupyter Notebook  
 
