@@ -8,6 +8,6 @@
 
 4. Upload both project code and dataset files into Jupyter Notebook  
 
-5. After uploading both code and dataset files, copy and paste the dataset file path in the project code as showing in this example: source_df = pd.read_csv('./Sites_URLs_Dataset.csv')
+5. After uploading both code and dataset files, copy and paste the dataset file path in the project code as showing in this example: source_df = pd.read_csv('Sites_URLs_Dataset.csv')
 
 6. Lastly, run code cells in Jupyter Notebook to launch the dashboard so you can search and analyze site URLs
