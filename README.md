@@ -13,9 +13,7 @@ The four primary features are:
 -	HTML and JavaScript Based
 
 # Models & Training:
-<<<<<<< HEAD
-We will be using Akash Kumar’s dataset and features that he developed in his previous research, see link above. Kumar used “a simple tree-based classifier and no hyper-parameter tuning to model and test the dataset.” See details in this link: https://www.kaggle.com/akashkr/phishing-url-eda-and-modelling. On the other hand, our ML system will use different ML to see if these models will behave differently and render the desired results. Below are the models that we will be using:
-=======
+
 We will be using Akash Kumar’s dataset and features that he developed in his previous research. Kumar used “a simple tree-based classifier and no hyper-parameter tuning to model and test the dataset.” See details in this link: https://www.kaggle.com/akashkr/phishing-url-eda-and-modelling. On the other hand, our ML system will use different ML to see if these models will behave differently and render the desired results. Below are the models that we will be using:
 >>>>>>> 23f9aef (updated dashboard)
 - Logistic Regression
